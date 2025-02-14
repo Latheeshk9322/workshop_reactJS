@@ -20,7 +20,7 @@ function App() {
       
       <div style={{ display: "flex", alignItems: "center" }}>
       <img
-        src="./public/vcet.png"
+        src="public/vcet.png"
         alt="VCET Logo"
         style={{ width: "40px", height: "auto", marginRight: "10px" }}
       />
